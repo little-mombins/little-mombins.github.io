@@ -44,7 +44,7 @@ html {
 
 body {
   color: #454545;
-  background-color: #fff;
+  background-color: #fffaf0;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -64,6 +64,14 @@ body {
 .wrap {
   position: relative;
   width: 100%;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+    max-width: 600px;
+    max-height: 900px;
 }
 
 /*
