@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
- <title>The Little Mombins</title>
- <link href="http://little-mombins.github.io/atom.xml" rel="self"/>
- <link href="http://little-mombins.github.io/"/>
- <updated>2017-01-25T14:03:17+00:00</updated>
- <id>http://little-mombins.github.io</id>
- <author>
-   <name>Dr Bernkus</name>
-   <email>littlemombins@gmail.com</email>
- </author>
-
- 
- <entry>
-   <title>Central</title>
-   <link href="http://little-mombins.github.io/Central/"/>
-   <updated>2017-01-16T00:00:00+00:00</updated>
-   <id>http://little-mombins.github.io/Central</id>
-   <content type="html">&lt;p&gt;A Stop on the Salt Route
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://little-mombins.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.0.5">Jekyll</generator><link href="http://little-mombins.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://little-mombins.github.io/" rel="alternate" type="text/html" /><updated>2017-01-25T14:03:17+00:00</updated><id>http://little-mombins.github.io/</id><title type="html">The Little Mombins</title><subtitle>Fun times</subtitle><author><name>Dr Bernkus</name><email>littlemombins@gmail.com</email></author><entry><title type="html">Central</title><link href="http://little-mombins.github.io/Central/" rel="alternate" type="text/html" title="Central" /><published>2017-01-16T00:00:00+00:00</published><updated>2017-01-16T00:00:00+00:00</updated><id>http://little-mombins.github.io/Central</id><content type="html" xml:base="http://little-mombins.github.io/Central/">&lt;p&gt;A Stop on the Salt Route
 1000 B.C.
 As they rounded a bend in the path that ran beside the river, Lara recognized the silhouette of a fig tree atop a nearby hill. The weather was hot and the days were long. The fig tree was in full leaf, but not yet bearing fruit.
 Soon Lara spotted other landmarks—an outcropping of limestone beside the path that had a silhouette like a man’s face, a marshy spot beside the river where the waterfowl were easily startled, a tall tree that looked like a man with his arms upraised. They were drawing near to the place where there was an island in the river. The island was a good spot to make camp. They would sleep on the island tonight.&lt;/p&gt;
@@ -190,10 +171,7 @@ She did not need to ask for an explanation. It was what she had been yearning to
 The darkness did not deter her. She knew every twist and turn of every path on the little island. When she came to the metal trader’s camp, she found Tarketios lying in a leafy nook secluded from the others; she recognized him by his brawny silhouette. He was awake and waiting, just as she had been lying awake, waiting, when her father came to her.
 At her approach, Tarketios rose onto his elbows. He spoke her name in a whisper. There was a quiver of something like desperation in his voice; his neediness made her smile. She sighed and lowered herself beside him. By the faint moonlight, she saw that he wore an amulet of some sort, suspended from a strap of leather around his neck. Nestled amid the hair on his chest, the bit of shapeless metal seemed to capture and concentrate the faint moonlight, casting back a radiance brighter than the moon itself.
 His arms—the arms she had so admired earlier—reached out and closed around her in a surprisingly gentle embrace. His body was as warm and naked as her own, but much bigger and much harder. She wondered if Fascinus was with them in the darkness, for she seemed to feel the beating of wings between their legs as she was entered by the thing that gave origin to life.
-Copyright © 2007 by Steven Saylor. All rights reserved.&lt;/p&gt;
-
-</content>
- </entry>
- 
-
-</feed>
+Copyright © 2007 by Steven Saylor. All rights reserved.&lt;/p&gt;</content><author><name>Dr Bernkus</name><email>littlemombins@gmail.com</email></author><summary type="html">A Stop on the Salt Route
+1000 B.C.
+As they rounded a bend in the path that ran beside the river, Lara recognized the silhouette of a fig tree atop a nearby hill. The weather was hot and the days were long. The fig tree was in full leaf, but not yet bearing fruit.
+Soon Lara spotted other landmarks—an outcropping of limestone beside the path that had a silhouette like a man’s face, a marshy spot beside the river where the waterfowl were easily startled, a tall tree that looked like a man with his arms upraised. They were drawing near to the place where there was an island in the river. The island was a good spot to make camp. They would sleep on the island tonight.</summary></entry></feed>
